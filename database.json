@@ -1,0 +1,311 @@
+{
+  "name": "Abaya",
+  "strength": "3",
+  "group": "Silver",
+  "rarity": "Epic",
+  "loyalty": "Loyal",
+  "faction": "Monsters",
+  "position": "Siege",
+  "types": [
+    "Necrophage",
+  ]
+  "text": "Deploy: Spawn Torrential Rain, Clear Skies, or Arachas Venom",
+  "mechanics": [
+    "Deploy",
+    "Spawn",
+  ]
+},
+
+{
+  "name": "Elven Mercenary",
+  "strength": "1",
+  "group": "Bronze",
+  "rarity": "Rare",
+  "loyalty": "Loyal",
+  "faction": "Scoia'tael",
+  "position": "Agile",
+  "types": [
+    "Elf",
+    "Soldier",
+  ]
+  "text": "Draw the top 2 Bronze Special cards in your Deck. Play 1 and shuffle the other back.",
+  "mechanics": [
+    "Deploy",
+    "Draw",
+  ]
+},
+
+{
+  "name": "Ithlinne",
+  "strength": "2",
+  "group": "Gold",
+  "rarity": "Legendary",
+  "loyalty": "Loyal",
+  "faction": "Scoia'tael",
+  "position": "Agile",
+  "types": [
+    "Elf",
+    "Mage",
+  ]
+  "text": "Play a Bronze Spell or Weather card from your Deck, then Spawn a copy of it. Shuffle the others back.",
+  "mechanics": [
+    "Deploy",
+    "Spawn",
+  ]
+},
+
+{
+  "name": "Dol Blathanna Protector",
+  "strength": "2",
+  "group": "Bronze",
+  "rarity": "Rare",
+  "loyalty": "Loyal",
+  "faction": "Scoia'tael",
+  "position": "Agile",
+  "types": [
+    "Elf",
+    "Soldier",
+  ]
+  "text": "Whenever you play a Special card, Boost this Unit by 1 while in your Hand, Deck or on your side of the Board.",
+  "mechanics": [
+    "Boost",
+  ]
+},
+
+{
+  "name": "Yennefer",
+  "strength": "6",
+  "group": "Gold",
+  "rarity": "Legendary",
+  "loyalty": "Loyal",
+  "faction": "Neutral",
+  "position": "Agile",
+  "types": [
+    "Aedirn",
+    "Mage",
+  ]
+  "text": "Spawn a Unicorn or a Chironex.",
+  "mechanics": [
+    "Deploy",
+    "Spawn",
+  ]
+},
+
+{
+  "name": "Farseer",
+  "strength": "8",
+  "group": "Bronze",
+  "rarity": "Rare",
+  "loyalty": "Loyal",
+  "faction": "Scoia'tael",
+  "position": "Agile",
+  "types": [
+    "Elf",
+    "Mage",
+  ]
+  "text": "If a different Ally or Unit in your Hand is Boosted during your turn, Boost self by 2 at the end of the turn.",
+  "mechanics": [
+    "Ally",
+    "Boost",
+  ]
+},
+
+{
+  "name": "Ida Emean",
+  "strength": "3",
+  "group": "Silver",
+  "rarity": "Epic",
+  "loyalty": "Loyal",
+  "faction": "Scoia'tael",
+  "position": "Siege",
+  "types": [
+    "Elf",
+    "Mage",
+  ]
+  "text": "Spawn Impenetrable Fog, Clear Skies or Overdose.",
+  "mechanics": [
+    "Deploy",
+    "Spawn",
+  ]
+},
+
+{
+  "name": "Aglais",
+  "strength": "9",
+  "group": "Gold",
+  "rarity": "Legendary",
+  "loyalty": "Loyal",
+  "faction": "Scoia'tael",
+  "position": "Agile",
+  "types": [
+    "Dryad",
+  ]
+  "text": "",
+  "mechanics": [
+    "",
+    "",
+  ]
+},
+
+{
+  "name": "First Light",
+  "strength": "",
+  "group": "Bronze",
+  "rarity": "Common",
+  "loyalty": "",
+  "faction": "Neutral",
+  "position": "Special",
+  "types": [
+    "Special",
+  ]
+  "text": "Spawn Clear Skies or Rally.",
+  "mechanics": [
+    "Spawn",
+  ]
+},
+
+{
+  "name": "Alzur's Thunder",
+  "strength": "",
+  "group": "Bronze",
+  "rarity": "Common",
+  "loyalty": "",
+  "faction": "Neutral",
+  "position": "Special",
+  "types": [
+    "Special",
+    "Spell",
+  ]
+  "text": "Damage a Unit by 7.",
+  "mechanics": [
+    "Damage",
+  ]
+},
+
+{
+  "name": "Nature's Gift",
+  "strength": "",
+  "group": "Silver",
+  "rarity": "Epic",
+  "loyalty": "",
+  "faction": "Scoia'tael",
+  "position": "Special",
+  "types": [
+    "Special",
+    "Spell",
+  ]
+  "text": "Play a Bronze or Silver Special card from your Deck. Shuffle the others back.",
+  "mechanics": [
+  ]
+},
+
+{
+  "name": "Last Wish",
+  "strength": "",
+  "group": "Silver",
+  "rarity": "Epic",
+  "loyalty": "",
+  "faction": "Neutral",
+  "position": "Special",
+  "types": [
+    "Special",
+    "Spell",
+  ]
+  "text": "Draw your top 2 cards. Play 1 and shuffle the other back.",
+  "mechanics": [
+    "Draw",
+  ]
+},
+
+{
+  "name": "Alzur's Double Cross",
+  "strength": "",
+  "group": "Silver",
+  "rarity": "Epic",
+  "loyalty": "",
+  "faction": "Neutral",
+  "position": "Special",
+  "types": [
+    "Special",
+    "Spell",
+  ]
+  "text": "Boost the Highest Bronze or Silver Unit in your Deck by 2 and play it.",
+  "mechanics": [
+    "Boost",
+    "Highest",
+  ]
+},
+
+{
+  "name": "Marching Orders",
+  "strength": "",
+  "group": "Silver",
+  "rarity": "Epic",
+  "loyalty": "",
+  "faction": "Neutral",
+  "position": "Special",
+  "types": [
+    "Special",
+    "Tactic",
+  ]
+  "text": "Boost the Lowest Bronze or Silver Unit in your Deck by 2 and play it.",
+  "mechanics": [
+    "Boost",
+    "Lowest",
+  ]
+},
+
+{
+  "name": "Artefact Compression",
+  "strength": "",
+  "group": "Silver",
+  "rarity": "Epic",
+  "loyalty": "",
+  "faction": "Neutral",
+  "position": "Special",
+  "types": [
+    "Special",
+    "Spell",
+  ]
+  "text": "Transform a Bronze or Silver Unit into a Jade Figurine.",
+  "mechanics": [
+    "Transform",
+  ]
+},
+
+{
+  "name": "Royal Decree",
+  "strength": "",
+  "group": "Gold",
+  "rarity": "Legendary",
+  "loyalty": "",
+  "faction": "Neutral",
+  "position": "Special",
+  "types": [
+    "Special",
+    "Tactic",
+  ]
+  "text": "",
+  "mechanics": [
+    "",
+    "",
+  ]
+},
+
+{
+  "name": "Merigold's Hailstorm",
+  "strength": "",
+  "group": "Silver",
+  "rarity": "Epic",
+  "loyalty": "",
+  "faction": "Neutral",
+  "position": "Special",
+  "types": [
+    "Special",
+    "Spell",
+  ]
+  "text": "Damage all Bronze and Silver Units on a row by half their Power (rounding up and ignoring Armor).",
+  "mechanics": [
+    "Damage",
+  ]
+},

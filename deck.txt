@@ -5,14 +5,11 @@
 3 Farseer
 1 Ida Emean
 1 Aglais
-1 First Light
-2 Alzur's Thunder
-1 Quen
-1 Lacerate
-1 Mardroeme
+3 First Light
+3 Alzur's Thunder
 1 Nature's Gift
 1 Last Wish
-1 Alzur's Thunder
+1 Alzur's Double Cross
 1 Marching Orders
 1 Artefact Compression
 1 Royal Decree
