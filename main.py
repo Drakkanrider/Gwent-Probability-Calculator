@@ -5,7 +5,7 @@ class Deck:
   size = 0
   deckList = {}
 
-
+#HYPERGEOMETRIC CALCULATIONS
 def draw(numCards, deckSize):
   if deckSize <= 15:
     return 0
@@ -15,9 +15,8 @@ def draw(numCards, deckSize):
 
 def handDraw(numCards, deckSize):
   print(draw(numCards, deckSize))
-  
 
-
+#pedestrian file input
 deck = Deck()
 with open('deck.txt') as f:
   for line in f:
@@ -26,7 +25,8 @@ with open('deck.txt') as f:
     else:
       deck.deckList[line[2:]] = line[0]
     deck.size = deck.size + int(line[0])
-    
+
+#test printing    
 for key in deck.deckList:
   print(key, end=" ")
   print(deck.deckList[key])
